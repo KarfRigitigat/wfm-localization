@@ -456,7 +456,7 @@
   "app.auctions.modal.label.policy": "Тип",
   "app.auctions.modal.button.policy.auction": "Аукцион",
   "app.auctions.modal.button.policy.directSell": "Просто продажа",
-  "app.ws.auctions.errors.its_your_own_auction": "Нельзя учавствоват ьв собственном аукционе.",
+  "app.ws.auctions.errors.its_your_own_auction": "Нельзя учавствовать в собственном аукционе.",
   "app.ws.auctions.errors.banned_from_auction": "В этом аукционе вас забанили.",
   "app.ws.auctions.errors.reputation_is_to_low": "Ваша репутация слишком низкая, чтобы участвовать в аукционе.",
   "app.ws.auctions.errors.cant_remove_bid_from_closed_auction": "Аукцион был закрыт, ты не можешь удалить ставку.",
